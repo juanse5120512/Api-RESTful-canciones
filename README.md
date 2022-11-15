@@ -1,6 +1,6 @@
 
 
-albums existentes* -> 16,17 y 19. ordenamientos posibles** -> titulo, descripcion, cuerpo, seccion e id.
+albums existentes* -> 16,17 y 19. ordenamientos posibles** -> genero, anio, banda, album, nombre e id.
 
 1)http://localhost/tp2web2/api/songs -> GET a la lista entera de canciones, por default ordenadas ascendentemente.
 
